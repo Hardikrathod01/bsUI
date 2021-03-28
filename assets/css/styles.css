@@ -1,0 +1,143 @@
+.feature-heading {
+  padding-left: 25px;
+  font-size: 30px;
+}
+
+.feature-font {
+  font-family: Comic Sans MS;
+  padding-bottom: 20px;
+}
+
+.feature-text {
+  padding-left: 55px;
+}
+
+.row.feature-raw {
+  margin-top: 25px;
+  padding-bottom: 15px;
+}
+
+.card-title.price-card-heading {
+  text-align: center;
+}
+
+.card-subtitle.price-card-heading {
+  text-align: center;
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem;
+}
+
+.pricing-section {
+  margin-top: 15px;
+  color: rgb(65,158,226);
+}
+
+.card-subheading {
+  font-size: 15px;
+  text-align: center;
+}
+
+.pricing-font {
+  margin-top: 15px;
+  font-family: monospace;
+}
+
+.btn.btn-primary.register-price-button {
+  margin: auto;
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.container.pricing-container {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.col-sm-12.col-md-4.col-lg-4.col-xl-4.about-img-padding {
+  padding-top: 15px;
+}
+
+.row.about-row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-text {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.offer-text {
+  color: #03e1d1;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 10px;
+}
+
+.offer-box-margin {
+  margin-bottom: 20px;
+}
+
+.align-right {
+  float: right;
+}
+
+.fa.fa-angle-right.action-select {
+  font-size: 30px;
+}
+
+.fa.fa-star.trusted-by-logo {
+  font-size: 50px;
+}
+
+trusted-by-logo {
+  font-size: 45px;
+}
+
+.trusted-by-logo {
+  font-size: 45px;
+}
+
+.card.card-shadow {
+  box-shadow: 3px 3px 20px rgb(219,215,215);
+}
+
+@media (min-width: 300px) {
+  .col-sm-12.col-md-4.col-lg-4.col-xl-4.price-card-sm-margin {
+    margin-top: 25px;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-sm-12.col-md-4.col-lg-4.col-xl-4.feature-sm-margin {
+    margin-top: 15px;
+  }
+}
+
+.col-sm-12.col-md-5.col-lg-5.col-xl-5.mission-image {
+  min-height: 300px;
+  padding-top: 15px;
+  background: url("../../assets/img/team.png") center no-repeat;
+}
+
+@media (min-width: 300px) {
+  .col-sm-12.col-md-5.col-lg-5.col-xl-5.mission-image.mission-sm-margin {
+    /*margin-left: 15px;*/
+    /*margin-right: 15px;*/
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+

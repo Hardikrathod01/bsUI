@@ -1,0 +1,75 @@
+#brand-logo {
+  font-size: 34px;
+}
+
+#app-navbar {
+  background: linear-gradient(120deg, #00e4d0, #5983e8);
+}
+
+.body-background {
+  font-weight: 300;
+  font-family: serif;
+}
+
+.navbar-nav .nav-item {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.home-content {
+  min-height: 400px;
+  margin-top: 120px;
+  text-align: center;
+  color: rgb(65,158,226);
+}
+
+.home-heading {
+  font-size: 40px;
+  font-family: FreeMono;
+  font-weight: bolder;
+  margin: 0px;
+}
+
+.feature-simple-text {
+  margin-top: 20px;
+}
+
+p {
+  margin: 0px;
+}
+
+.home-sub-heading {
+  font-size: 20px;
+  font-family: FreeMono;
+  font-weight: normal;
+  margin: 0px;
+}
+
+.home-heading-para {
+  color: rgb(63,218,250);
+}
+
+.register-email-input {
+  border-radius: 10px;
+  border-color: rgb(12,214,211);
+  border-style: solid;
+  margin-top: 15px;
+  width: 20%;
+  height: 45px;
+}
+
+.btn.btn-primary.register-button {
+  margin-left: 15px;
+  background-color: rgb(63,158,225);
+}
+
+.register-email-input:focus {
+  outline: none;
+}
+
+.curve-top {
+  margin-top: -30px;
+  text-align: center;
+  padding-top: 40px;
+}
+
