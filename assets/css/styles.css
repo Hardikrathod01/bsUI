@@ -161,3 +161,11 @@ trusted-by-logo {
   width: 100%;
 }
 
+.big-icon {
+  font-size: 50px;
+}
+
+.right-text {
+  float: right;
+}
+
