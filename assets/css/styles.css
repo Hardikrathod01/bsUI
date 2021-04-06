@@ -6,6 +6,7 @@
 .feature-font {
   font-family: Comic Sans MS;
   padding-bottom: 20px;
+  color: white;
 }
 
 .feature-text {
@@ -40,7 +41,6 @@
 
 .pricing-section {
   margin-top: 15px;
-  color: rgb(65,158,226);
 }
 
 .card-subheading {
@@ -80,7 +80,6 @@
 }
 
 .offer-text {
-  color: #03e1d1;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   padding-bottom: 10px;
@@ -167,5 +166,14 @@ trusted-by-logo {
 
 .right-text {
   float: right;
+}
+
+.brand {
+  height: 50px;
+  width: 210px;
+}
+
+.gradient-background {
+  background: linear-gradient(90deg, rgb(3,225,209) 1%, rgb(79,143,230) 99%);
 }
 
