@@ -51,6 +51,7 @@
 .pricing-font {
   margin-top: 15px;
   font-family: monospace;
+  /*margin-left: 15px;*/
 }
 
 .btn.btn-primary.register-price-button {
@@ -175,5 +176,9 @@ trusted-by-logo {
 
 .gradient-background {
   background: linear-gradient(90deg, rgb(3,225,209) 1%, rgb(79,143,230) 99%);
+}
+
+html {
+  height: 100%;
 }
 
